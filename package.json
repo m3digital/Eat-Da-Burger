@@ -1,21 +1,23 @@
 {
-  "name": "Eat Da Burger",
+  "name": "Eat-Da-Burger",
   "version": "1.0.0",
-  "description": "Burger Maker",
+  "description": "### Overview",
   "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3digital/Eat-Da-Burger.git"
   },
-  "author": "M3 Digital",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.6",
-    "mysql": "^2.12.0"
+  "bugs": {
+    "url": "https://github.com/m3digital/Eat-Da-Burger/issues"
   },
-  "keywords": []
+  "homepage": "https://github.com/m3digital/Eat-Da-Burger#readme"
 }
